@@ -84,7 +84,7 @@ const Projects = () => {
           <Project title="Tech-Blog" link="https://sqello.com/" />
 
           {/* ROW 2 */}
-          <Project title="Anime-Catalog" link="https://github.com/oriyomibadmus/myAnimeApp"/>
+          <Project title="Anime-Catalog" link="https://my-anime-app-kappa.vercel.app/"/>
           <Project title="Portfolio-Website" link="#" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
